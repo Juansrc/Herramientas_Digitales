@@ -9,3 +9,5 @@ La escritura de Verne capturó el espíritu de exploración y descubrimiento cie
 A pesar de enfrentar un escepticismo inicial por parte de los críticos literarios, las novelas de Verne ganaron popularidad tanto en Francia como internacionalmente. Sus obras han sido traducidas a numerosos idiomas y adaptadas a innumerables películas, programas de televisión y producciones teatrales.
 
 Jules Verne falleció el 24 de marzo de 1905 en Amiens, Francia, dejando un legado que continúa inspirando a generaciones de lectores y escritores. Permanece como una de las figuras más influyentes en la historia de la literatura de ciencia ficción, cuya imaginación y habilidad para contar historias continúan cautivando a audiencias en todo el mundo.
+
+
