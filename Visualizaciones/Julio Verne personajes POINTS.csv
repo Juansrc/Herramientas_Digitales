@@ -1,0 +1,36 @@
+﻿Source,Target
+Phileas Fogg,Jean Passepartout
+Phileas Fogg,Detective Fix
+Phileas Fogg,Aouda
+Phileas Fogg,Mr. Ralph
+Phileas Fogg,Mr. Wilson
+Phileas Fogg,Sir Francis Cromarty
+Phileas Fogg,Captain Andrew Speedy
+Phileas Fogg,Mr. Stuart
+Jean Passepartout,Detective Fix
+Jean Passepartout,Aouda
+Aouda,Detective Fix
+Mr. Ralph,Mr. Stuart
+Axel,Otto Lidenbrok
+Axel,Grauben
+Otto Lidenbrok,Grauben
+Otto Lidenbrok,Martha
+Otto Lidenbrok,Hans Bjelke
+Otto Lidenbrok,Milne Edwards
+Axel,Hans Bjelke
+Axel,Mr. Fridriksson
+Otto Lidenbrok,Mr. Fridriksson
+Axel,Milne Edwards
+Otto Lidenbrok,Quatrefagues
+Axel,Quatrefagues
+Jules Verne,Phileas Fogg
+Jules Verne,Otto Lidenbrok
+Jean Passepartout,Sir Francis Cromarty
+Profesor Pierre Aronnax,Conseil
+Ned Land,Professor Pierre Aronnax
+Conseil,Ned Land
+Otto Lidenbrok,Snorre Turleson
+Captain Nemo,Professor Pierre Aronnax
+Ned Land,Captain Nemo
+Conseil,Professor Pierre Aronnax
+Captain Nemo,Conseil
